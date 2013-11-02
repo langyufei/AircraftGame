@@ -10,6 +10,7 @@
 
 @implementation AAppDelegate
 
+
 @synthesize window = _window;
 @synthesize navigationController = _navigationController;
 
